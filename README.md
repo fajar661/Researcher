@@ -1,5 +1,8 @@
 # 🧠 ResearcherAI — The Ethical AI Research Assistant
 
+<img width="1896" height="868" alt="image" src="https://github.com/user-attachments/assets/96c90b94-b13f-4032-85e0-7077e5e02da2" />
+
+
 > Transform your research workflow with AI — summarize, explore, and identify gaps ethically and effortlessly.
 
 ---
