@@ -16,6 +16,8 @@ uses **Pinecone** for semantic vector search, and **MongoDB** for user data and 
 Unlike content generators, **ResearcherAI** is designed with ethics at its core —  
 it *assists* researchers without generating plagiarized or unverifiable text.
 
+<img width="1695" height="804" alt="image" src="https://github.com/user-attachments/assets/e823bdb2-bcdb-4a09-b023-fafb5a31d5f2" />
+
 ---
 
 ## ✨ Key Features
