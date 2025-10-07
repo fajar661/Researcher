@@ -63,12 +63,14 @@ npm install
 # Add your environment variables
 cp .env.example .env
 
+```
 MONGO_URI=your_mongodb_uri
 PINECONE_API_KEY=your_pinecone_key
 OPENALEX_API=https://api.openalex.org
 SEMANTIC_SCHOLAR_API=https://api.semanticscholar.org
 OPENAI_API_KEY=your_openai_key
 JWT_SECRET=your_jwt_secret
+```
 
 # Run the Development Server
 npm run dev
