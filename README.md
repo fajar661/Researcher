@@ -1,4 +1,4 @@
-# 🧠 ResearcherAI — The Ethical AI Research Assistant
+# 🧠 Researcher — The Ethical AI Research Assistant
 
 <img width="1896" height="868" alt="image" src="https://github.com/user-attachments/assets/96c90b94-b13f-4032-85e0-7077e5e02da2" />
 
@@ -9,11 +9,11 @@
 
 ## 🌍 Overview
 
-**ResearcherAI** is an intelligent research assistant built for modern researchers.  
+**Researcher** is an intelligent research assistant built for modern researchers.  
 It connects with **OpenAlex** and **Semantic Scholar APIs** to retrieve and summarize academic content,  
 uses **Pinecone** for semantic vector search, and **MongoDB** for user data and project management.
 
-Unlike content generators, **ResearcherAI** is designed with ethics at its core —  
+Unlike content generators, **Researcher** is designed with ethics at its core —  
 it *assists* researchers without generating plagiarized or unverifiable text.
 
 <img width="1695" height="804" alt="image" src="https://github.com/user-attachments/assets/e823bdb2-bcdb-4a09-b023-fafb5a31d5f2" />
