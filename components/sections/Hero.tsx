@@ -88,7 +88,7 @@ export default function Hero() {
             </motion.div>
 
             <h1 className="text-5xl lg:text-6xl font-bold text-balance leading-tight">
-              Transform Your Research Flow with AI —{" "}
+              Make Your Research —{" "}
               <span className="inline-block relative h-[1.2em] w-[190px] align-bottom overflow-visible">
                 <span className="absolute inset-0 text-red-600 text-[0.95em]">
                   {displayedText}
